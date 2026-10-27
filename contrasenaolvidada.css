@@ -1,0 +1,20 @@
+body{
+    background-image: url(fondodepantalla.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+a{
+    font-size: 20px;
+    margin-left: 80px;
+    color: brown;
+    text-decoration: none;
+    margin-top: 800px;
+}
+
+.logo{
+    border-radius: 50%;
+    height: 70px;
+}
+
